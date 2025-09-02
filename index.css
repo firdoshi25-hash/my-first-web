@@ -1,0 +1,60 @@
+/*Genearal page style*/
+body{
+    font-family: Arial,Sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f9;
+    color: #333;
+    }
+/*Header*/
+header{
+       background: #4caf50;
+       color: white;
+       padding: 20px;
+        text-align: center;}
+
+/*Navigation*/
+nav{
+    background: #333;
+    padding: 10px;
+    text-align:center;
+    }
+nav a {
+       color: white;
+       text-decoration: none;
+       margin:0 15px;
+       }
+nav a:hover {
+             color: yellow;
+            }
+/*section*/
+section {
+         padding: 20px;
+         }
+       h2{
+          background:#f4f4f9 ;
+          color: violet;
+          }
+        p{
+            background:#f4f4f9;
+            color: #222;
+        }
+        img{
+            border-color: blue;
+            border-style: dotted;
+        }
+        video{
+            border-style: dotted;
+            border-color: blue;
+        }
+        h3{
+            background: #f4f4f9;
+            color: aquamarine;
+        }
+/*footer*/
+footer {
+        background: #222;
+        color: white;
+        text-align: center;
+        padding: 10px;
+       }
